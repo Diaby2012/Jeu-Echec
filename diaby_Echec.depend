@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1446412438 source:c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+
+1446412438 c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\echiquier.h
+	"Piece.h"
+
+1446414461 c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\piece.h
+
+1446412854 source:c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Piece.h"
+
+1446412438 c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\joueur.h
+	"Piece.h"
+	"Echiquier.h"
+	<vector>
+
+1446412438 source:c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\piece.cxx
+	<iostream>
+	"Piece.h"
+
+1446412438 source:c:\users\diaby-s\desktop\c++\diaby_final\diaby_echec\testpiece.cxx
+	<iostream>
+	"Piece.h"
+	"Joueur.h"
+	"Echiquier.h"
+
